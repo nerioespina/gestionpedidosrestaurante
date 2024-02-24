@@ -1,0 +1,23 @@
+{
+  "name": "gestionpedidosrestaurante",
+  "version": "1.0.0",
+  "description": "Aplicación de gestión de pedidos para restaurantes",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerioespina/gestionpedidosrestaurante.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerioespina/gestionpedidosrestaurante/issues"
+  },
+  "homepage": "https://github.com/nerioespina/gestionpedidosrestaurante#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  }
+}
